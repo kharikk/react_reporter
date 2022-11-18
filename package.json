@@ -59,7 +59,7 @@
     "react-responsive-modal": "^4.0.1",
     "react-router-dom": "^5.0.0",
     "react-router-pagination": "^2.0.2",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-select": "^3.0.3",
     "react-simple-timefield": "^2.0.3",
     "react-slick": "^0.24.0",
